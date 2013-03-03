@@ -1,3 +1,4 @@
+# Description #
 Custom color scheme for iTerm2, it comes in two flavors:
 
 - light
@@ -5,6 +6,10 @@ Custom color scheme for iTerm2, it comes in two flavors:
 
 Original work can be found here: http://noahfrederick.com/vim-color-scheme-hemisu/
 
-![Hemisu Light](./images/hemisu-light.png)
+# Screenshots #
 
-![Hemisu Dark](./images/hemisu-dark.png)
+## Light version ##
+<img src="./images/hemisu-light.png" height="264" width="376">
+
+## Dark version ##
+<img src="./images/hemisu-dark.png" height="267" width="382">
