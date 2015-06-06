@@ -4,7 +4,7 @@ Custom color scheme for iTerm2, it comes in two flavors:
 - light
 - dark
 
-Original work can be found here: http://noahfrederick.com/vim-color-scheme-hemisu/
+Original work can be found here: https://noahfrederick.com/log/hemisu-for-os-x-terminal/
 
 # Screenshots #
 
